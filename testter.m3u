@@ -1,0 +1,7 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SONY TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONY(OTT)",test1
+https://cdn1.turboviplay.com/data1/68abb4d444f21/68abb4d444f21720.m3u8
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SONY TEN 2 HD" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONY(OTT)",test2
+https://cdn1.turboviplay.com/data1/68abb4d444f21/68abb4d444f21.m3u8

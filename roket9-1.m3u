@@ -4,10 +4,10 @@
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"gTUrxH7BF3syHuZawb5_EA","k":"yLiGFCAF1-UGfIcXd36qxA"}],"type":"temporary"}
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
-#EXTINF:-1 tvg-id="817.astro" tvg-name="Astro Sports Plus" group-title="Sports | AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Astro_Sports_Plus_1_%282024%29.png/800px-Astro_Sports_Plus_1_%282024%29.png",817 Astro Sports Plus
+#EXTINF:-1 tvg-id="818.astro" tvg-name="Astro Sports Plus" group-title="Sports | AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Astro_Sports_Plus_1_%282024%29.png/800px-Astro_Sports_Plus_1_%282024%29.png",818 Astro Sports Plus
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

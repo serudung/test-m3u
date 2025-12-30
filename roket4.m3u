@@ -4,7 +4,7 @@
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuOyUiJ8XC7JN4yDPS4U/w","kid":"6tAzXWBAEiVyem1THpwnEA"}],"type":"temporary"}
 #EXTINF:-1 tvg-id="802.astro" group-logo="https://nanopi.rocket-ott.shop/Gambar/onm.jpg" tvg-name="ARENA 2 HD" group-title="Sports | AstroGO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/457_144.png" ch-number="802",802 Astro Arena 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey

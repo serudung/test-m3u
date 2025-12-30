@@ -1,3 +1,5 @@
+#EXTM3U
+
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"HuOyUiJ8XC7JN4yDPS4U/w","kid":"6tAzXWBAEiVyem1THpwnEA"}],"type":"temporary"}
@@ -10,8 +12,6 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_primary.mpd
 #EXTINF:-1 tvg-id="817.astro" tvg-name="Astro Sports Plus" group-title="Sports | AstroGO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Astro_Sports_Plus_1_%282024%29.png/800px-Astro_Sports_Plus_1_%282024%29.png" ch-number="817",817 Astro Sports Plus
 #EXTVLCOPT:http-user-agent=(Linux; U; Android 9; Build/)
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5171/default_primary.mpd
-
-#EXTM3U
 
 
 EXTINF:-1 group-logo="" channel-id="118" tvg-name="Inspirasi" tvg-logo="https://get.perfecttv.net/logo/inspirasi.png" group-title="MALAYSIA",111 Inspirasi 

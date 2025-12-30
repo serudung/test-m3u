@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-#EXTM3U x-tvg-url="https://aqfadtv.xyz/epg.xml"
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
